@@ -33,5 +33,12 @@ export default [
     title: `Updated invitation: Coding chat with Nico`,
     starred: true,
     read: false
+  },
+  {
+    id: 6,
+    sender: `Brendan Gleeson`,
+    title: `Can I borrow your copy of Resident Evil 4?`,
+    starred: true,
+    read: false
   }
 ]
